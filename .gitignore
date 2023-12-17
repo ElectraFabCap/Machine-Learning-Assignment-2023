@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+git rm --cached 
+*.tsv
